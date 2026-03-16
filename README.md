@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bhagyesh</h1>
+<!-- <h1 align="center">Hi 👋, I'm Bhagyesh</h1>
 <h3 align="center">A passionate developer from India 🇮🇳</h3>
 
 <p align="center">
@@ -65,4 +65,208 @@
 
 ---
 
-⭐ From [bhagyesh8877](https://github.com/bhagyesh8877)
+⭐ From [bhagyesh8877](https://github.com/bhagyesh8877) -->
+
+<div align="center">
+
+<!-- Dynamic Typing Header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Hey+There!+I'm+Bhagyesh+%F0%9F%91%8B;Full+Stack+Developer+in+Progress+%F0%9F%9A%80;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+Learning%2C+Always+Building+%F0%9F%92%BB)](https://git.io/typing-svg)
+
+<!-- Wave Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bhagyesh%20Sunil%20Chaudhari&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Web%20Developer%20%7C%20Open%20Source%20Contributor%20%7C%20Tech%20Explorer&descAlignY=53&descAlign=50" width="100%" />
+
+<!-- Profile Badges Row -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bhagyesh8877&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="bhagyesh8877" />
+  <a href="https://github.com/bhagyesh8877?tab=followers">
+    <img src="https://img.shields.io/github/followers/bhagyesh8877?label=Followers&style=for-the-badge&color=0e75b6&logo=github" alt="followers" />
+  </a>
+  <img src="https://img.shields.io/github/stars/bhagyesh8877?label=Stars&style=for-the-badge&color=0e75b6&logo=github" alt="stars" />
+</p>
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```yaml
+name: Bhagyesh Sunil Chaudhari
+username: bhagyesh8877
+location: India 🇮🇳
+current_focus: Web Development
+learning_path:
+  - Frontend → HTML, CSS, JavaScript, React.js
+  - Backend  → Node.js, Express.js, REST APIs
+  - Database → MySQL, MongoDB
+  - Tools    → Git, GitHub, VS Code, Linux
+open_to:
+  - Open Source Contributions
+  - Collaborative Projects
+  - Internship Opportunities
+  - Hackathons
+fun_fact: >
+  I debug with console.log and I'm not ashamed 😄
+  Coffee + Code = Magic ☕💻
+```
+
+---
+
+## 🚀 What I'm Up To
+
+<table>
+<tr>
+<td>
+
+- 🌱 Currently mastering **React.js** & **Node.js**
+- 🔭 Building exciting **full-stack web projects**
+- 💡 Exploring **REST APIs** and **backend development**
+- 🤝 Open to contributing to **open-source projects**
+- 🎯 2025 Goal: **Land my first developer internship**
+- 📖 Reading: *Clean Code* by Robert C. Martin
+- ⚡ Fun fact: I can spend hours debugging one missing semicolon 😅
+
+</td>
+<td>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+### ⚙️ Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+### 🧰 Dev Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+### 📈 Stats Overview
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhagyesh8877&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagyesh8877&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</p>
+
+### 🔥 Contribution Streak
+<img src="https://streak-stats.demolab.com/?user=bhagyesh8877&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF" width="70%" />
+
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=bhagyesh8877&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+
+### 📉 Contribution Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhagyesh8877&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B35" width="100%" />
+
+### 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhagyesh8877/bhagyesh8877/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhagyesh8877/bhagyesh8877/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/bhagyesh8877/bhagyesh8877/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🎯 Coding Activity
+
+<!--START_SECTION:waka-->
+> 📌 Add your WakaTime API key to display live coding stats here.
+> 
+> Enable it by following: [WakaTime README Stats Setup](https://github.com/anmol098/waka-readme-stats)
+<!--END_SECTION:waka-->
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/bhagyesh8877" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/bhagyesh8877" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+</a>
+<a href="mailto:bhagyesh8877@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://dev.to/bhagyesh8877" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+</a>
+<a href="https://github.com/bhagyesh8877" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 💡 Dev Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%"/>
+</div>
+
+---
+
+## 🎮 Fun Section
+
+<div align="center">
+
+**When I'm coding vs when it finally works:**
+
+| 😤 Debugging | 🎉 It Works! |
+|:---:|:---:|
+| ![debugging](https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif) | ![it works](https://media.giphy.com/media/b5LTssxCLpvVe/giphy.gif) |
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Open to Collaborations & Opportunities!
+
+> *"First, solve the problem. Then, write the code."* – John Johnson
+
+**⭐ Star my repositories if you find them helpful!**
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" />
+
+</div>
