@@ -26,11 +26,9 @@ I love discussing tech, open-source, and anything that can help developers grow.
 #### 🎖 Milestones Along The Way
 
 - I am actively building **full-stack web projects** using React.js, Node.js, Express, and MongoDB — focusing on real use cases and clean architecture.
-- I practice **Data Structures and Algorithms** daily on LeetCode to sharpen my problem-solving skills and prepare for technical interviews.
+- I practice **Data Structures and Algorithms** daily on Geeks for Geeks, and Leetcode to sharpen my problem-solving skills and prepare for technical interviews.
 - I have completed multiple **end-to-end projects** covering areas such as REST API development, authentication systems, and responsive UI design.
 - I actively explore **open-source repositories** to understand best practices, contribute where possible, and learn from experienced developers.
-- I am working towards my **first developer internship** in 2025, with a focus on demonstrating strong fundamentals and project quality.
-- Check out my Projects: [My GitHub Repositories](https://github.com/bhagyesh8877?tab=repositories)
 
 [![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
