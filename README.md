@@ -8,7 +8,7 @@ I love discussing tech, open-source, and anything that can help developers grow.
 
 - 📫 Reach me at **chaudharibhagyesh123@gmail.com**
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/bhagyesh-chaudhari-915605171/)
-- 🌐 Find all my projects on [GitHub](https://github.com/bhagyesh8877)
+- 🌐 Find all my projects on [GitHub]([https://github.com/bhagyesh8877](https://github.com/bhagyesh8877?tab=repositories))
 - ✍️ I share learnings and notes as I grow as a developer
 
 ---
