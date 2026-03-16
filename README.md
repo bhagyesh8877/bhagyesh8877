@@ -1,6 +1,6 @@
 # Hi there, I'm [Bhagyesh Chaudhari](https://github.com/bhagyesh8877) 👋
 
-I'm an aspiring Software Engineer and Full Stack Web Developer with a strong passion for building real-world applications. I actively explore modern web technologies, contribute to open-source projects, and build end-to-end projects across various use cases — while continuously growing my skills in **Data Structures, Algorithms, and System Design**.
+I'm an aspiring Software Engineer with a strong passion for building real-world applications. I actively explore modern web technologies, contribute to open-source projects, and build end-to-end projects across various use cases — while continuously growing my skills in **Data Structures, Algorithms, and System Design**.
 
 I love discussing tech, open-source, and anything that can help developers grow. If you're building something interesting or want to collaborate, let's connect!
 
@@ -17,7 +17,7 @@ I love discussing tech, open-source, and anything that can help developers grow.
 
 #### 🌱 What I'm Passionate About
 
-- **Web Development that Empowers:** Building tools and interfaces that solve real problems and make developers' lives easier.
+- **Web and Mobile Application Development that Empowers:** Building tools and interfaces that solve real problems and make developers' lives easier.
 - **Open Source for Impact:** Contributing to open-source projects and learning from the community to sharpen my skills.
 - **Community-Driven Learning:** Collaborating with fellow developers, attending hackathons, and sharing knowledge to grow together.
 
