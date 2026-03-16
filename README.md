@@ -57,8 +57,8 @@ I'm a passionate developer from **India 🇮🇳**, currently focused on buildin
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhagyesh8877&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=false" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagyesh8877&layout=compact&langs_count=8&theme=default&hide_border=false" height="180" alt="top langs" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=bhagyesh8877&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=false" height="180" alt="stats" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=bhagyesh8877&layout=compact&langs_count=8&theme=default&hide_border=false" height="180" alt="top langs" />
 </p>
 
 <p align="center">
