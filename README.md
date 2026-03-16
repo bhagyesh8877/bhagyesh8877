@@ -6,8 +6,8 @@ I love discussing tech, open-source, and anything that can help developers grow.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&duration=7000&pause=1000&width=435&lines=Interested+in+Full+Stack+Web+Development;Loves+Working+on+Open+Source+Projects;Learning+DSA+%26+System+Design+Daily)](https://git.io/typing-svg)
 
-- 📫 Reach me at **bhagyesh8877@gmail.com**
-- 💼 Connect with me on [LinkedIn](https://linkedin.com/in/bhagyesh-chaudhari)
+- 📫 Reach me at **chaudharibhagyesh123@gmail.com**
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/bhagyesh-chaudhari-915605171/)
 - 🌐 Find all my projects on [GitHub](https://github.com/bhagyesh8877)
 - ✍️ I share learnings and notes as I grow as a developer
 
@@ -87,25 +87,27 @@ I love discussing tech, open-source, and anything that can help developers grow.
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/bhagyesh-chaudhari" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Bhagyesh%20Chaudhari-0077B5?style=flat&logo=linkedin&logoColor=white" />
+
+  <a href="https://www.linkedin.com/in/bhagyesh-chaudhari-915605171/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  &nbsp;
-  <a href="mailto:bhagyesh8877@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-bhagyesh8877@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+
+  <a href="mailto:chaudharibhagyesh123@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/google-gmail.svg" alt="Gmail" height="30" width="40" />
   </a>
-  &nbsp;
-  <a href="https://twitter.com/bhagyesh8877" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-@bhagyesh8877-1DA1F2?style=flat&logo=twitter&logoColor=white" />
+
+  <a href="https://x.com/bhagyesh_sc" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X / Twitter" height="30" width="40" />
   </a>
-  &nbsp;
-  <a href="https://instagram.com/bhagyesh8877" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@bhagyesh8877-E4405F?style=flat&logo=instagram&logoColor=white" />
+
+  <a href="https://www.instagram.com/bhagyesh_chaudhari/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  &nbsp;
-  <a href="https://leetcode.com/bhagyesh8877" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-bhagyesh8877-FFA116?style=flat&logo=leetcode&logoColor=black" />
+
+  <a href="https://github.com/bhagyesh8877" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
+
 </p>
 
-[![kalyanmurapaka45](https://komarev.com/ghpvc/?username=bhagyesh8877&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/bhagyesh8877)
+[![](https://komarev.com/ghpvc/?username=bhagyesh8877&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/bhagyesh8877)
