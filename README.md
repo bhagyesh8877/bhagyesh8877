@@ -18,7 +18,7 @@ I'm a passionate developer from **India 🇮🇳**, currently focused on buildin
 - 🌱 Actively learning **Data Structures & Algorithms**, **System Design**, and **REST API best practices**
 - 🤝 Open to **open-source contributions**, **internships**, and **collaborative projects**
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, Git**
-- 📫 Reach me at **bhagyesh8877@gmail.com**
+- 📫 Reach me at **chaudharibhagyesh123@gmail.com**
 - ⚡ Fun fact: I debug with `console.log()` and I'm proud of it 😄
 
 ---
@@ -100,25 +100,25 @@ I'm a passionate developer from **India 🇮🇳**, currently focused on buildin
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/bhagyesh-chaudhari" target="_blank">
+  <a href="[https://linkedin.com/in/bhagyesh-chaudhari](https://www.linkedin.com/in/bhagyesh-chaudhari-915605171/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Bhagyesh%20Chaudhari-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:bhagyesh8877@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-bhagyesh8877@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+  <a href="mailto:chaudharibhagyesh123@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-chaudharibhagyesh123@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://twitter.com/bhagyesh8877" target="_blank">
+  <a href="[https://twitter.com/bhagyesh8877](https://x.com/bhagyesh_sc)" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-@bhagyesh8877-1DA1F2?style=flat&logo=twitter&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://instagram.com/bhagyesh8877" target="_blank">
+  <a href="[https://instagram.com/bhagyesh8877](https://www.instagram.com/bhagyesh_chaudhari/)" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@bhagyesh8877-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
-  &nbsp;
+  <!-- &nbsp;
   <a href="https://leetcode.com/bhagyesh8877" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-bhagyesh8877-FFA116?style=flat&logo=leetcode&logoColor=black" />
-  </a>
+  </a> -->
 </p>
 
 ---
